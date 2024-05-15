@@ -7,7 +7,7 @@ public class Restart : MonoBehaviour
 
     public void RestartGame()
     {
-        SceneManager.LoadScene(sceneBuildIndex:0);
+        SceneManager.LoadScene(sceneBuildIndex:1);
     }
 
 }
